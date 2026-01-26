@@ -21,6 +21,9 @@ I am a passionate learner focused on **pentesting**, basic networking, and CTF .
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rawidya&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawidya&layout=compact&theme=radical)
 
+### 🐍 Snake Contribution Map
+![snake gif](https://github.com/rawidya/rawidya/blob/output/github-contribution-grid-snake.gif)
+
 ### 📫 How to reach me
 - 💼 LinkedIn: https://www.linkedin.com/in/parama-widyadhana-putra-arif-801583384/
 - 📧 Email: paramawidyaputraarif@gmail.com

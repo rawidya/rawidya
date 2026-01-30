@@ -1,4 +1,4 @@
-# Hi there, I'm [Parama] 👋
+# Hi there, I'm Param 👋
 
 ## 🐧 CTF Enthusiast
 
@@ -28,4 +28,4 @@ I am a passionate learner focused on **pentesting**, basic networking, and CTF .
 - 📧 Email: paramawidyaputraarif@gmail.com
 
 ---
-*"Everything is a file."*
+*"the winner takes it all but i know i'il win tommorow."*

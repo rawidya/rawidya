@@ -16,11 +16,6 @@ I am a passionate learner focused on **pentesting**, basic networking, and CTF .
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rawidya&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rawidya&layout=compact&theme=radical)
-
-
 
 ### 📫 How to reach me
 - 💼 LinkedIn: https://www.linkedin.com/in/parama-widyadhana-putra-arif-801583384/

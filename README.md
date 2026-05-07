@@ -1,25 +1,44 @@
-# Hi there, I'm Param 👋
+<p align="center">
+  <img src="https://img.onl/UjXpE8" width="100%" alt="Banner">
+</p>
 
-## 🐧 CTF Enthusiast
+<h1 align="center">Parama Widyadhana Putra Arif</h1>
 
-I am a passionate learner focused on **pentesting**, basic networking, and CTF . I enjoy exploring the command line and understanding how operating systems work under the hood.
+<p align="center">
+  <strong>CTF Enthusiast | Security Learner</strong>
+</p>
 
-### 🛠 Tech Stack & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-
-### 📫 How to reach me
-- 💼 LinkedIn: https://www.linkedin.com/in/parama-widyadhana-putra-arif-801583384/
-- 📧 Email: paramawidyaputraarif@gmail.com
+<p align="center">
+  <a href="https://linkedin.com/in/parama-widyadhana-putra-arif-801583384/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:paramawidyaputraarif@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
-*"the winner takes it all but i know i'il win tommorow."*
+
+### About Me
+
+I am a passionate learner focused on **pentesting**, basic networking, and CTF challenges. I enjoy exploring the command line and understanding how operating systems work under the hood. Currently expanding my knowledge in cybersecurity and web security.
+
+### Tech Stack
+
+**Operating Systems**
+![Linux](https://img.shields.io/badge/Linux-8A2BE2?style=flat-square&logo=linux&logoColor=white) 
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+
+**Tools & Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### Contact
+- **LinkedIn**: [Parama Widyadhana Putra Arif](https://linkedin.com/in/parama-widyadhana-putra-arif-801583384/)
+- **Email**: paramawidyaputraarif@gmail.com
+
+---
+
+<p align="center">
+  <em>"The winner takes it all, but I know I'll win tomorrow."</em>
+</p>

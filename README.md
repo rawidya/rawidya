@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/9f/2b/8a/9f2b8aa5c8a883924117f0a24a420164.jpg" width="100%" alt="Banner">
+  <img src="https://i.pinimg.com/736x/9f/2b/8a/9f2b8aa5c8a883924117f0a24a420164.jpg" width="50%" alt="Banner">
 </p>
 
 <h1 align="center">Parama Widyadhana Putra Arif</h1>

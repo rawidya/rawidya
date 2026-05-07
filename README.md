@@ -32,7 +32,8 @@ I am a passionate learner focused on **pentesting**, basic networking, and CTF c
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 ### Contact
 - **LinkedIn**: [Parama Widyadhana Putra Arif](https://linkedin.com/in/parama-widyadhana-putra-arif-801583384/)
 - **Email**: paramawidyaputraarif@gmail.com

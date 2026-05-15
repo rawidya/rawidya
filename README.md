@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/9e/35/ef/9e35ef209430eb91c043f8d4991b8dbb.jpg" width="50%" lenght="10%" alt="Banner">
+  <img src="https://i.pinimg.com/736x/9e/35/ef/9e35ef209430eb91c043f8d4991b8dbb.jpg" width="50%" lenght="40%" alt="Banner">
 </p>
 
 <h1 align="center">Parama Widyadhana Putra Arif</h1>
@@ -27,7 +27,6 @@ I am a passionate learner focused on **pentesting**, basic networking, and CTF c
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 **Tools & Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)

@@ -6,7 +6,9 @@
 
 <p align="center">
   <strong>CTF Enthusiast | Security Learner</strong>
-  visit my portofolio https://portofolio-mu-pearl-74.vercel.app/
+</p>
+<p align= "center">
+visit my portofolio https://portofolio-mu-pearl-74.vercel.app/
 </p>
 
 <p align="center">

@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🌐 <a href="https://portofolio-mu-pearl-74.vercel.app/"><strong>Visit My Portfolio</strong></a>
+   <a href="https://portofolio-mu-pearl-74.vercel.app/"><strong>Visit My Portfolio</strong></a>
 </p>
 
 <p align="center">
@@ -23,14 +23,15 @@
 
 I am a passionate learner focused on **pentesting**, basic networking, and CTF challenges. I enjoy exploring the command line and understanding how operating systems work under the hood. Currently expanding my knowledge in cybersecurity and web security.
 
-- 🔭 **Current Focus**: Web Security, CTF Challenges & Laravel Development
-- 💼 **Portfolio**: [portofolio-mu-pearl-74.vercel.app](https://portofolio-mu-pearl-74.vercel.app/)
+- **Current Focus**: Web Security, CTF Challenges & Laravel Development
+- **Portfolio**: [portofolio-mu-pearl-74.vercel.app](https://portofolio-mu-pearl-74.vercel.app/)
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Operating Systems**  
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=flat-square&logo=kali-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
@@ -45,10 +46,10 @@ I am a passionate learner focused on **pentesting**, basic networking, and CTF c
 
 ---
 
-### 📬 Connect with Me
+### Connect with Me
 
-- 💼 **LinkedIn**: [Parama Widyadhana Putra Arif](https://linkedin.com/in/parama-widyadhana-putra-arif-801583384/)
-- 📧 **Email**: [paramawidyaputraarif@gmail.com](mailto:paramawidyaputraarif@gmail.com)
+-  **LinkedIn**: [Parama Widyadhana Putra Arif](https://linkedin.com/in/parama-widyadhana-putra-arif-801583384/)
+- **Email**: [paramawidyaputraarif@gmail.com](mailto:paramawidyaputraarif@gmail.com)
 
 ---
 

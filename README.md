@@ -24,7 +24,8 @@
 I am a passionate learner focused on **pentesting**, basic networking, and CTF challenges. I enjoy exploring the command line and understanding how operating systems work under the hood. Currently expanding my knowledge in cybersecurity and web security.
 
 - **Current Focus**: Web Security, CTF Challenges & Laravel Development
-- **Portfolio**: [portofolio-mu-pearl-74.vercel.app](https://portofolio-mu-pearl-74.vercel.app/)
+- **Portfolio**: porto-param-v1-omv9hosjq-rawidyas-projects.vercel.app
+
 
 ---
 
